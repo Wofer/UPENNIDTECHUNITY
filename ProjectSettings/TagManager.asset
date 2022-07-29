@@ -7,15 +7,18 @@ TagManager:
   - Unstealth
   - Stealth
   - Ground
+  - Enemy
+  - Wall
+  - Bullet
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
-  - 
-  - 
+  - Player
+  - Bullet
   - 
   - 
   - 
